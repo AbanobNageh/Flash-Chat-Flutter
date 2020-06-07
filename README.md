@@ -9,4 +9,4 @@ This app was created along with the course 'The Complete 2020 Flutter Developmen
 
 ![3](https://user-images.githubusercontent.com/22684921/80021490-e0f34e00-84da-11ea-8003-4410d4fbb00d.png)
 
-![2](https://user-images.githubusercontent.com/22684921/80021522-eb154c80-84da-11ea-946e-331d395fb722.png)
+![2](https://user-images.githubusercontent.com/22684921/83957673-26d95b00-a86a-11ea-8330-d1acd2a4df1b.png)
