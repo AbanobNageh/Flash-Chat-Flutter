@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "792989263882",
+    "firebase_url": "https://flash-chat-flutter-90e54.firebaseio.com",
+    "project_id": "flash-chat-flutter-90e54",
+    "storage_bucket": "flash-chat-flutter-90e54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792989263882:android:a3c7d1d477d6a35bdf57f3",
+        "android_client_info": {
+          "package_name": "co.AbanobNageh.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792989263882-47cj4k7gn3dabqekar983f1mjdrf29ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXtwpp3VsGpxXJsHKJKBhO4AcFWhaw_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792989263882-47cj4k7gn3dabqekar983f1mjdrf29ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
